@@ -1,0 +1,59 @@
+body{
+    background-color: whitesmoke;
+    font-family:sans-serif;
+    box-shadow: 5px;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 50;
+    
+
+
+}
+img{
+    height:200px;
+    width:200px;
+    position: absolute;
+    left: 0px;
+    position: absolute;
+    top: 0;
+    background-color: whitesmoke;
+}
+.index-b{
+    margin-top: 200px;
+    text-align: center;
+}
+
+.topcontatiner{
+    text-align: center;
+    padding-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+.maddlecontatiner{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.lastcontatiner{
+    text-align:center ;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.bottlecontatiner{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.a{
+    padding-left: 10px;
+}
+
+.z{
+    position: absolute;
+    bottom: 10%;
+}
